@@ -35,9 +35,6 @@ This project is not just about layout—it demonstrates how to structure a scala
 - responsive and accessible UI  
 
 It serves as a solid foundation for developers aiming to present their work with **professional polish and strong visual identity**.
-
-🎥 Tutorial: https://youtu.be/YOUR_VIDEO_ID  
-
 ---
 
 ## ⚙️ Technical Stack <a id="tech-stack"></a>
