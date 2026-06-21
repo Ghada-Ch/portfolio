@@ -95,7 +95,7 @@ Optimized for instant deployment with full GitHub + Vercel CI/CD support.
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
+git clone https://github.com/Ghada-Ch/portfolio.git
 cd react-tailwind-portfolio
 npm install
 npm run dev
